@@ -21,7 +21,7 @@ public sealed class MainForm : Form
     private string? _currentVideoPath;
 
     public MainForm()
-    {
+    {WSQSQ
         this.Visible = false;
         this.ShowInTaskbar = false;
         this.WindowState = FormWindowState.Minimized;
